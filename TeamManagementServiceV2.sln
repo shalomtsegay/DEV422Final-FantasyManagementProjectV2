@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TeamManagementServiceV2", "TeamManagementServiceV2\TeamManagementServiceV2.csproj", "{988525C2-6AFE-403A-99C6-68CC94BEBB43}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayerManagementService", "PlayerManagementService\PlayerManagementService.csproj", "{E75812D7-382A-4094-9351-98EDCA4D87D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{988525C2-6AFE-403A-99C6-68CC94BEBB43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{988525C2-6AFE-403A-99C6-68CC94BEBB43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{988525C2-6AFE-403A-99C6-68CC94BEBB43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{988525C2-6AFE-403A-99C6-68CC94BEBB43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E75812D7-382A-4094-9351-98EDCA4D87D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E75812D7-382A-4094-9351-98EDCA4D87D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E75812D7-382A-4094-9351-98EDCA4D87D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E75812D7-382A-4094-9351-98EDCA4D87D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7A3D930-90E6-454D-8E01-710B12BA4CD5}
+	EndGlobalSection
+EndGlobal

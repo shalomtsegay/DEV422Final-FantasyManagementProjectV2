@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TeamManagementServiceV2.props" />
+</Project>

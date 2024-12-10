@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "APbLqzB/LETKFLl92JTexnqkcqX9+yTJAI6MbJSeBOA=",
+  "Source": "TeamManagementServiceV2",
+  "BasePath": "_content/TeamManagementServiceV2",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "TeamManagementServiceV2\\wwwroot",
+      "Source": "TeamManagementServiceV2",
+      "ContentRoot": "C:\\Users\\jaden\\Downloads\\DEV422Final-FantasyManagementProject-main\\DEV422Final-FantasyManagementProject-main\\TeamManagementServiceV2\\wwwroot\\",
+      "BasePath": "_content/TeamManagementServiceV2",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\jaden\\Downloads\\DEV422Final-FantasyManagementProject-main\\DEV422Final-FantasyManagementProject-main\\TeamManagementServiceV2\\wwwroot\\index.html",
+      "SourceId": "TeamManagementServiceV2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jaden\\Downloads\\DEV422Final-FantasyManagementProject-main\\DEV422Final-FantasyManagementProject-main\\TeamManagementServiceV2\\wwwroot\\",
+      "BasePath": "_content/TeamManagementServiceV2",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}

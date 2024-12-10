@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\jaden\\Downloads\\DEV422Final-FantasyManagementProject-main\\DEV422Final-FantasyManagementProject-main\\TeamManagementServiceV2\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TeamManagementServiceV2.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.TeamManagementServiceV2.props",
+      "PackagePath": "build\\TeamManagementServiceV2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.TeamManagementServiceV2.props",
+      "PackagePath": "buildMultiTargeting\\TeamManagementServiceV2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.TeamManagementServiceV2.props",
+      "PackagePath": "buildTransitive\\TeamManagementServiceV2.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

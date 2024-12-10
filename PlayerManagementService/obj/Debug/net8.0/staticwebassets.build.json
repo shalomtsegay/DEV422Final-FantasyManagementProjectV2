@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ms+doh7czmqcRIH7nedV4HxeX3rpRCi5fvJWbOHUwiM=",
+  "Source": "PlayerManagementService",
+  "BasePath": "_content/PlayerManagementService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
